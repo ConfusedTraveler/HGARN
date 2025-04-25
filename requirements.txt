@@ -27,7 +27,8 @@ dill==0.3.3
 entrypoints==0.4
 fastdtw==0.3.4
 future==0.18.2
-GDAL==3.0.4
+# GDAL==3.0.4
+# GDAL==3.3.2
 gensim==3.8.1
 google-auth==2.6.6
 google-auth-oauthlib==0.4.6
@@ -119,10 +120,10 @@ tensorboardX==2.5
 terminado==0.12.1
 testpath==0.6.0
 threadpoolctl==3.1.0
-torch==1.7.1+cu110
-torchaudio==0.7.2
-torchdiffeq==0.2.3
-torchvision==0.8.2+cu110
+# torch==1.7.1+cu110
+# torchaudio==0.7.2
+# torchdiffeq==0.2.3
+# torchvision==0.8.2+cu110
 tornado==6.1
 tqdm==4.64.0
 traitlets==4.3.3
